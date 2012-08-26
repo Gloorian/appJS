@@ -6,4 +6,4 @@ appJS javascript framework
 
 ================================
 
-See our website: http://âpp.com/appjs
+See our (http://âpp.com/appjs "website")
